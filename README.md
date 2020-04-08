@@ -17,10 +17,10 @@ pyttsx3
 ### step1  
 Open cmd and run the command $ pip install -r requirements.txt, For Installing all dependencies.
 ### step2 
-Go to project directory and run the command to run python script $python News_AI.py
+Go to project directory and run the command to run python script $python AI_News.py
 
 # Run in Startup Setup
-If you want to run python script "News_AI.py" automatically whenever the PC is on and has internet enable. Follow the steps
+If you want to run python script "AI_News.py" automatically whenever the PC is on and has internet enable. Follow the steps
 ### step1 
 Open "startup_run.vbs" and change "your project directory" sentance to your project directory, for an example my project is "C:\Users\Dipendu\Desktop"
 ### step2  
