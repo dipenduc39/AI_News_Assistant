@@ -6,12 +6,12 @@ This Assistant tells you the Latest AI related headlines. Demo Video Link -https
 You can listen same news in multiple time.
 
 # Project Dependencies
-requests
-beautifulsoup4
-PyAudio == 0.2.11
-SpeechRecognition
-pygame
-pyttsx3
+### requests
+### beautifulsoup4
+### PyAudio == 0.2.11
+### SpeechRecognition
+### pygame
+### pyttsx3
 
 # Setup the Project
 ### step1  
