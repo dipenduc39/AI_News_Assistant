@@ -22,7 +22,7 @@ Go to project directory and run the command to run python script $python AI_News
 # Run in Startup Setup
 If you want to run python script "AI_News.py" automatically whenever the PC is on and has internet enable. Follow the steps
 ### step1 
-Open "startup_run.vbs" and change "your project directory" sentance to your project directory, for an example my project is "C:\Users\Dipendu\Desktop"
+Open "startup_run.vbs" and change "your project directory" sentance to your project directory, for an example my project directory is "C:\Users\Dipendu\Desktop"
 ### step2  
 Move the "startup_run.vbs" to startup folder.
 If you unable to find Startup folder, simple press win+r to open "Run" and past this url "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp" hit enter.
