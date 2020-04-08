@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+PyAudio == 0.2.11
+SpeechRecognition
+pygame
+pyttsx3
+
+
