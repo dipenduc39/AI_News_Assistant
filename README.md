@@ -2,6 +2,7 @@
 
 # Desriciption
 This Assistant tells you the Latest AI related headlines. Demo Video Link -https://drive.google.com/file/d/12SUyEcwDG-vIMN-P3Ae7VgXi1LNN6RCe/view
+
 You can listen same news in multiple time.
 
 # Project Dependencies
