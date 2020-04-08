@@ -68,7 +68,9 @@ def popular_ai_news():
                     saved_headline.append(headlines.text)
                   else:
                     continue
+                  #Time Interval between News Headlines
                   t.sleep(2)
+            #Stop background music
             music.stop()
         except OSError:
             print("No Internet Connection Found")
