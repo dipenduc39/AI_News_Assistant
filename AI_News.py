@@ -42,6 +42,7 @@ def speak(text):
     engine.runAndWait()
 
 def popular_ai_news():
+    #While Loop for continue check the Internet Connection
     while True:
         try:
             #Check the Internet Connection
@@ -100,5 +101,3 @@ while True:
             break
     except:
          speak("Sorry I can't listen properly")
-
-
