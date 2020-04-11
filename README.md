@@ -29,6 +29,6 @@ If you unable to find Startup folder, simple press win+r to open `Run` and past 
 ### step3 
 `Restart the PC`
 
-## All done! Enjoy....
+## All done! Enjoy with your Assistant....
 
 
