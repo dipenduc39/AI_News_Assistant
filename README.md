@@ -1,17 +1,17 @@
 # Top AI News Assistant  
 
 # Desriciption
-This Assistant tells you the Latest AI related headlines. [Demo Video] (https://drive.google.com/file/d/12SUyEcwDG-vIMN-P3Ae7VgXi1LNN6RCe/view)
+This Assistant tells you the Latest AI related headlines. [Demo Video](https://drive.google.com/file/d/12SUyEcwDG-vIMN-P3Ae7VgXi1LNN6RCe/view)
 
 You can listen same news in multiple time.
 
 # Project Dependencies
-### requests
-### beautifulsoup4
-### PyAudio == 0.2.11
-### SpeechRecognition
-### pygame
-### pyttsx3
+1. requests
+2. beautifulsoup4
+3. PyAudio == 0.2.11
+4. SpeechRecognition
+5. pygame
+6. pyttsx3
 
 # Getting Started
 ### step1  
