@@ -27,7 +27,7 @@ Open "startup_run.vbs" and change `your project directory` sentance to your proj
 Move the `startup_run.vbs` to startup folder.
 If you unable to find Startup folder, simple press win+r to open `Run` and past this url `C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp` hit enter.
 ### step3 
-Restart the PC
+`Restart the PC`
 
 ## All done! Enjoy....
 
