@@ -1,7 +1,7 @@
 # Top AI News Assistant  
 
 # Desriciption
-This Assistant tells you the Latest AI related headlines. [Demo Video](https://github.com/dipenduc39/AI_News_Assistant/blob/master/demo.mp4)
+This Assistant tells you the Latest AI related headlines. [Demo Video](https://drive.google.com/open?id=1sxveQVL0I5FKmSNa5CepZC2PMFMqB6pD)
 
 You can listen same news in multiple time.
 
